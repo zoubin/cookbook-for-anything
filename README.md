@@ -6,4 +6,4 @@ Solutions to any type of problems
 * [Root OSX EI Capitan](docs/root-OSX-EI-Capitan.md)
 * `identity` to show image dimensions.
 * [how I write tests for node and the browser](http://substack.net/how_I_write_tests_for_node_and_the_browser)
-
+* [Automated IP Configuration for React Native Development](http://moduscreate.com/automated-ip-configuration-for-react-native-development/)
