@@ -9,3 +9,4 @@ Solutions to any type of problems
 * [Automated IP Configuration for React Native Development](http://moduscreate.com/automated-ip-configuration-for-react-native-development/)
 * [Create animated gif screencasts](https://github.com/dergachev/screengif)
 * [self-updating-scripts](http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/)
+* [sourcemaps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
