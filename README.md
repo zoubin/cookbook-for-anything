@@ -10,3 +10,4 @@ Solutions to any type of problems
 * [Create animated gif screencasts](https://github.com/dergachev/screengif)
 * [self-updating-scripts](http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/)
 * [sourcemaps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
+* [CSS font-family](docs/css-font-family.md)
