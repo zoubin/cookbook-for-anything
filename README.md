@@ -12,3 +12,5 @@ Solutions to any type of problems
 * [sourcemaps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 * [CSS font-family](docs/css-font-family.md)
 * [How to exclude certain directories/files from git grep search](http://stackoverflow.com/questions/10423143/how-to-exclude-certain-directories-files-from-git-grep-search/30084612#30084612)
+* [how to enable key repeating in macos](docs/how-to-enable-key-repeating-in-macos)
+
