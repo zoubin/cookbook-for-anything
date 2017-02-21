@@ -2,7 +2,7 @@
 Solutions to any type of problems
 
 * [Delete remote tags on git](./git-delete-remote-tags)
-* [Chinese filenames are messed in git status](/git-status-mess-chinese-filenames)
+* [Chinese filenames are messed in git status](./git-status-mess-chinese-filenames)
 * [Root OSX EI Capitan](./root-OSX-EI-Capitan)
 * `identity` to show image dimensions.
 * [how I write tests for node and the browser](http://substack.net/how_I_write_tests_for_node_and_the_browser)
